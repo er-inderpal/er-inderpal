@@ -1,0 +1,18 @@
+Hello,
+
+This letter is to express my interest in your posting for a job of Frontend engineer.
+
+I am a computer science graduate with 5 years of experience working on some really good projects in both development as well as research domains. 
+
+I am full stack developer & some of the few technologies I have worked in are Python, Angular, Asp.Net, AWS S3,RDS,EC2 & Apache Storm. I have worked on projects which ranges from IoT systems, Home automation, Energy monitoring and Analytics. 
+
+My previous job was with a home automation startup as a Tech Lead in Delhi, India. I am currently working with Nagarro CoE IoT as a Senior Associate where we collectively do work in emerging technologies like IoT, AR & VR. 
+
+I have extensive experience in developing Web as well as Hybrid mobile applications, working with sensors and other IoT based devices. I have also worked extensively towards designing interfaces for data analytics purposes and have a knack for good UI/UX.
+
+Please find my CV attached with this application. I am really looking forward for a positive reply. 
+
+Thank you.
+
+Inderpal Singh,
+https://er-inderpal.github.io/  
